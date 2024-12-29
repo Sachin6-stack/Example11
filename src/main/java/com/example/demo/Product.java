@@ -15,4 +15,6 @@ public class Product {
 	private String pname;
 	private int cost;
 
+	
+
 }
